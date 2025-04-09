@@ -2,4 +2,4 @@
 
 def handler(event, context):
     print("hola que tal")
-    return 4
+    return 2
