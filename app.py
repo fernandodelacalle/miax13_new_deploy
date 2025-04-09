@@ -1,5 +1,5 @@
 
 
 def handler(event, context):
-    print("hola")
+    print("hola que tal")
     return 2
